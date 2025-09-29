@@ -60,4 +60,22 @@ public class PilotDAO {
         return pilot;
     }
 
+    public boolean updatePilot(Pilot pilot) throws SQLException {
+        try (Connection connection = getConnection();
+            PreparedStatement ps = connection.prepareStatement(UPDATE_SQL)) {
+            ps.setString(1, pilot.getName());
+            ps.setString(2, pilot.getRank());
+            ps.setInt(3, pilot.getAge());
+            ps.setInt(4, pilot.getId());
+            return ps.executeUpdate() > 0;
+        }
+    }
+
+    public boolean deletePilot(int id) throws SQLException {
+        try (Connection connection = getConnection();
+            PreparedStatement ps = connection.prepareStatement(DELETE_SQL)) {
+            ps.setInt(1, id);
+            return ps.executeUpdate() > 0;
+        }
+    }
 }
