@@ -2,6 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/gestion_batallon_de_pilotos_java_mvc_Intellij_Oracle_Bootstrap" vcs="Git" />
   </component>
 </project>

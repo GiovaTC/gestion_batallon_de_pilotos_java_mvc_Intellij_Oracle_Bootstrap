@@ -23,7 +23,7 @@ public class PilotDAO {
             throw  new SQLException();
         }
     }
-    protected void insertPilot(Pilot pilot) throws SQLException {
+    public void insertPilot(Pilot pilot) throws SQLException {
         try (Connection connection = getConnection();
             PreparedStatement ps = connection.prepareStatement(INSERT_SQL)) {
            ps.setString(1, pilot.getName());
