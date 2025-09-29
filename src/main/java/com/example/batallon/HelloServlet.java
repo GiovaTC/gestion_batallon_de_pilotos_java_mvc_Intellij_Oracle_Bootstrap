@@ -1,4 +1,4 @@
-package com.example.batallon.proyecto_batallon_pilotos;
+package com.example.batallon;
 
 import java.io.*;
 
