@@ -1,7 +1,7 @@
 
 # Proyecto: Gestión de Batallón de Pilotos — Java (MVC) — IntelliJ + Oracle + Bootstrap :
-  
-<img width="2555" height="1038" alt="image" src="https://github.com/user-attachments/assets/7c7b6762-c5a0-40b1-b6aa-03ed155d76d8" />
+
+<img width="203" height="193" alt="image" src="https://github.com/user-attachments/assets/acd0ce8a-579d-497b-a76e-797430d0bb13" />  
 
 ## 📌 Descripción
 Aplicación web desarrollada en **Java (Maven, Servlets + JSP)** con el patrón **Modelo-Vista-Controlador (MVC)**, 
@@ -10,9 +10,11 @@ La información se almacena en una **base de datos Oracle** y la interfaz está 
 
 <img width="2559" height="1039" alt="image" src="https://github.com/user-attachments/assets/27ec9da1-e2f4-4e73-bb0c-53ea4f8b5b27" />
 
-<img width="203" height="193" alt="image" src="https://github.com/user-attachments/assets/acd0ce8a-579d-497b-a76e-797430d0bb13" />     
+<img width="2555" height="1038" alt="image" src="https://github.com/user-attachments/assets/7c7b6762-c5a0-40b1-b6aa-03ed155d76d8" />
 
 <img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/4101d6d6-af1c-41ca-9f52-ae7e1ec34838" />
+
+<img width="2559" height="1078" alt="image" src="https://github.com/user-attachments/assets/ed184594-35ef-4dac-9e8f-a30674763672" />
 
 ---
 
