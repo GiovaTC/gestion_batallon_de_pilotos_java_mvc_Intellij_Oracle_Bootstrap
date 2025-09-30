@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3543ad17-7c65-42cb-8749-8df8aab97883" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/sql/script_pilotos_inserts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/script_pilotos_inserts.sql" afterDir="false" />
-    </list>
+    <list default="true" id="3543ad17-7c65-42cb-8749-8df8aab97883" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +167,7 @@
       <updated>1759169337597</updated>
       <workItem from="1759169338602" duration="4179000" />
       <workItem from="1759178206279" duration="6250000" />
-      <workItem from="1759185783850" duration="2796000" />
+      <workItem from="1759185783850" duration="3489000" />
     </task>
     <servers />
   </component>
