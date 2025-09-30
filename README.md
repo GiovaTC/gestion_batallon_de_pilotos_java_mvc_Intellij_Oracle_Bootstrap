@@ -8,6 +8,8 @@ Aplicación web desarrollada en **Java (Maven, Servlets + JSP)** con el patrón 
 para gestionar la información de un **batallón de pilotos militares** .  
 La información se almacena en una **base de datos Oracle** y la interfaz está diseñada con **Bootstrap** para mejorar la experiencia de usuario .
 
+<img width="2559" height="1039" alt="image" src="https://github.com/user-attachments/assets/27ec9da1-e2f4-4e73-bb0c-53ea4f8b5b27" />
+
 <img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/4101d6d6-af1c-41ca-9f52-ae7e1ec34838" />
 
 ---
